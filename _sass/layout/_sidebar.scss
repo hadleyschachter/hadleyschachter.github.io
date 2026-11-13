@@ -142,53 +142,53 @@
    Author profile and links
    ========================================================================== */
 
-   .author__avatar {
-  display: block;
-  width: 100%;
-  height: auto;
-
-  img {
-    width: 175px !important;
-    max-width: 175px !important;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 0px; //50%;
-    padding: 5px;
-    object-position: center 30%; //added
-
-    @include breakpoint($large) {
-      border: 1px solid var(--global-border-color);
-    }
-  }
-}
-// .author__avatar {
-//   display: table-cell;
-//   vertical-align: top;
-//   width: 36px; 
-//   // set width only, for non-square avatars
-//   // height: 36px; 
-
-//   @include breakpoint($large) {
-//     display: block;
-//     width: auto;
-//     height: auto;
-//   }
+//    .author__avatar {
+//   display: block;
+//   width: 100%;
+//   height: auto;
 
 //   img {
-//     max-width: 175px;
-//     border-radius: 50%;
+//     width: 175px !important;
+//     max-width: 175px !important;
+//     height: 200px;
+//     object-fit: cover;
+//     border-radius: 0px; //50%;
+//     padding: 5px;
+//     object-position: center 30%; //added
 
 //     @include breakpoint($large) {
-//       padding: 5px;
 //       border: 1px solid var(--global-border-color);
 //     }
 //   }
 // }
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 36px; 
+  // set width only, for non-square avatars
+  // height: 36px; 
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid var(--global-border-color);
+    }
+  }
+}
 
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 25px; //originally 15px
+  padding-left: 15px; 
   padding-right: 25px;
   line-height: 1;
 
