@@ -148,11 +148,11 @@
   height: auto;
 
   img {
-    width: 200px !important;
-    max-width: 200px !important;
+    width: 175px !important;
+    max-width: 175px !important;
     height: 200px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 8px; //50%;
     padding: 5px;
 
     @include breakpoint($large) {
