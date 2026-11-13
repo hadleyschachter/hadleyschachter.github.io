@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! My name is Hadley, and I am a multilingual NLP researcher. I recently graduated from UC Berkeley where I studied Computer Science, Data Science, and Linguistics. "
 author_profile: true
 redirect_from: 
   - /about/
