@@ -7,7 +7,7 @@ excerpt: 'How can normative coherence for sustainable development be operational
 date: 2024-05-01
 venue: 'Data Science Discovery Program'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/2024-05-01-normative-coherence-sustainability.pdf'
+paperurl: 'https://hadleyschachter.github.io/files/2024-05-01-normative-coherence-sustainability.pdf'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Data Science Discovery Program</i>. 1(1).'
 ---
