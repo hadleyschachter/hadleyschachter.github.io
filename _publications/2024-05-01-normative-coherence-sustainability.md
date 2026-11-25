@@ -12,4 +12,6 @@ paperurl: 'https://hadleyschachter.github.io/files/2024-05-01-normative-coherenc
 citation: 'Hadley, You. (2009). &quot;Paper Title Number 1.&quot; <i>Data Science Discovery Program</i>. 1(1).'
 ---
 In this project, worked on how LLMs can track sustainability in Mexican law corpora.
+
+Give a cooler name!
  

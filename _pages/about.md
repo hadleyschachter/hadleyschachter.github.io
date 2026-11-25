@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated from UC Berkeley where I studied Computer Science, Data Science, and Linguistics. I am now applying to PhD programs with a focus on mulitlingual NLP and low resource machine translation.
+I recently graduated from UC Berkeley where I studied Computer Science, Data Science, and Linguistics. I am now applying to PhD programs with a focus on multilingual NLP and low resource machine translation.
 
 
 
