@@ -2,9 +2,9 @@
 title: "LLM-as-a-judge for MT"
 collection: publications
 category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2026-10-01-paper-title-number-3
 excerpt: 'LLM-as-a-judge for machine translation.'
-date: 2015-10-01
+date: 2026-05-01
 venue: 'Data Science Discovery Symposium'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://hadleyschachter.github.io/files/2026-05-01-LLM-as-a-judge.pdf'
@@ -14,4 +14,3 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
  Worked w MQM evaluation metrics. Worked w MQM evaluation metrics. Worked w MQM evaluation metrics. Worked w MQM evaluation metrics.
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
  
- _publications/2026-05-01-LLM-as-a-judge.md
