@@ -1,7 +1,7 @@
 ---
 title: "LLM-as-a-judge for MT"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'LLM-as-a-judge for machine translation.'
 date: 2015-10-01
