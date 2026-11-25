@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated from UC Berkeley where I studied Computer Science, Data Science, and Linguistics. I am now applying to PhD programs with a focus on mulitlingual NLP and low resource machine translaiton.
-
-During my undergrad, I was in the Bamman Group, worked with Lucy Li. 
-
-I am interested in how LLMs account for morphologically complex languages. 
+I recently graduated from UC Berkeley where I studied Computer Science, Data Science, and Linguistics. I am now applying to PhD programs with a focus on mulitlingual NLP and low resource machine translation.
 
 
-Selected Experiences
+
+I am interested in how LLMs account for morphologically complex languages, ethical implications of AI, and cross lingual transfer. I am interested in data synthesis.
+
+
 ------
 
 <!-- 
