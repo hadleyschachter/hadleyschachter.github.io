@@ -2,6 +2,8 @@
 title: "Multilingual Word Sense Disambiguation: A History and Current Approaches"
 collection: publications
 category: manuscripts
+venue_prefix: 'Paper for course:'
+venue: 'Info 159: Natural Language Processing'
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Survey on Multilingual Word Sense Disambiguation'
 date: 2025-05-05
